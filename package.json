@@ -5,9 +5,8 @@
   "version": "0.2.2",
   "repository": {
     "type": "git",
-    "url": "https://github.com/octref/polacode.git"
+    "url": "https://github.com/leegeunhyeok/polacode"
   },
-  "publisher": "pnp",
   "keywords": [
     "polacode",
     "polaroid",
